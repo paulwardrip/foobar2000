@@ -1,0 +1,10 @@
+{
+  "name": "foobar2000",
+  "version": "0.0.1",
+  "description": "parent project for foobar addons",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Paul Wardrip <invent@paulwardrip.com>",
+  "license": "ISC"
+}
